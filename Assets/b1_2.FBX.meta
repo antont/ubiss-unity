@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 6ee252fb80fb8a34d9808127b6b8e89e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BLOCK2_BUILDING1
+    100004: BLOCK2_BUILDING2
+    100006: BLOCK2_BUILDING3
+    100008: BLOCK2_BUILDING4
+    100010: BLOCK2_BUILDING5
+    100012: BLOCK2_BUILDING6
+    100014: BLOCK2_ROAD
+    100016: BLOCK2_YARD
+    400000: //RootNode
+    400002: BLOCK2_BUILDING1
+    400004: BLOCK2_BUILDING2
+    400006: BLOCK2_BUILDING3
+    400008: BLOCK2_BUILDING4
+    400010: BLOCK2_BUILDING5
+    400012: BLOCK2_BUILDING6
+    400014: BLOCK2_ROAD
+    400016: BLOCK2_YARD
+    2300000: BLOCK2_BUILDING1
+    2300002: BLOCK2_BUILDING2
+    2300004: BLOCK2_BUILDING3
+    2300006: BLOCK2_BUILDING4
+    2300008: BLOCK2_BUILDING5
+    2300010: BLOCK2_BUILDING6
+    2300012: BLOCK2_ROAD
+    2300014: BLOCK2_YARD
+    3300000: BLOCK2_BUILDING1
+    3300002: BLOCK2_BUILDING2
+    3300004: BLOCK2_BUILDING3
+    3300006: BLOCK2_BUILDING4
+    3300008: BLOCK2_BUILDING5
+    3300010: BLOCK2_BUILDING6
+    3300012: BLOCK2_ROAD
+    3300014: BLOCK2_YARD
+    4300000: BLOCK2_ROAD
+    4300002: BLOCK2_YARD
+    4300004: BLOCK2_BUILDING1
+    4300006: BLOCK2_BUILDING2
+    4300008: BLOCK2_BUILDING3
+    4300010: BLOCK2_BUILDING5
+    4300012: BLOCK2_BUILDING6
+    4300014: BLOCK2_BUILDING4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
